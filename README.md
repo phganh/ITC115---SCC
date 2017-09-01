@@ -1,7 +1,7 @@
-##Course:   ITC 115 - Seattle Central College
-##Language: Java
-##Quarter: Winter 2016
-##Instructor: Stani Meredith
+## Course:   ITC 115 - Seattle Central College
+## Language: Java
+## Quarter: Winter 2016
+## Instructor: Stani Meredith
 
 --- Description ---
 
